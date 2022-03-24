@@ -2,6 +2,12 @@
 
 我们要把自己照顾好
 
+## 学习资源
+
+- [MetEd Lesson](https://www.meted.ucar.edu/education_training/)
+- [Python Plot](https://unidata.github.io/python-training/gallery/gallery-home/)
+- [羽享平台](http://yuzhuyi.ysepan.com/)
+
 ## 社交平台
 
 - [气象家园](http://bbs.06climate.com/?44552)
@@ -29,6 +35,9 @@
 - [Temp](https://crudata.uea.ac.uk/cru/data/temperature/)
 - [气候指数](http://climexp.knmi.nl/selectindex.cgi?id=someone@somewhere)
 - [CMIP6](https://esgf-node.llnl.gov/search/cmip6/)
+- [CMIP6 Viewer](https://cmip6.science.unimelb.edu.au/search)
+- [中国流域地图](https://www.osgeo.cn/map/m0405)
+- [气候分区地图](http://koeppen-geiger.vu-wien.ac.at/present.htm)
 
 ## 联系方式
 - Email：1600920292@qq.com、zjhuangbc@163.com、huangbch18@lzu.edu.cn、huangbx2333@gmail.com
