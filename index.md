@@ -35,6 +35,8 @@
 - [Ocean Temp](http://www.ocean.iap.ac.cn/pages/dataService/dataService.html?navAnchor=dataService)
 - [Temp](https://crudata.uea.ac.uk/cru/data/temperature/)
 - [气候指数](http://climexp.knmi.nl/selectindex.cgi?id=someone@somewhere)
+- [ENSO](https://ggweather.com/enso/oni.htm)
+- [IOD](http://www.bom.gov.au/climate/iod/#tabs%3dPositive-IOD-impacts)
 - [CMIP6](https://esgf-node.llnl.gov/search/cmip6/)
 - [CMIP6 Viewer](https://cmip6.science.unimelb.edu.au/search)
 - [中国流域地图](https://www.osgeo.cn/map/m0405)
