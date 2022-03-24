@@ -10,16 +10,17 @@
 
 ## 社交平台
 
-- [气象家园](http://bbs.06climate.com/?44552)
-- [海洋论坛](https://www.52ocean.cn/?2176)
-- [Github](https://github.com/BX2019-2333)
+- [气象家园](http://bbs.06climate.com/)
+- [海洋论坛](https://www.52ocean.cn/)
+- Github：[BX2019](https://github.com/BX2019-2333)
 - [世纪气象云](http://www.21cma.net/portal.php)
 - [和鲸社区](https://www.heywhale.com/home/project)
 
 
 ## 学术相关
 
-- [ResearchGate](https://www.researchgate.net/profile/Bicheng-Huang-2)
+- ResearchGate：[Bx Huang](https://www.researchgate.net/profile/Bicheng-Huang-2)
+- Google Scholar：[Bx Huang](https://scholar.google.com/citations?user=5FAWnOMAAAAJ&hl=zh-CN)
 - [ORCID](https://orcid.org/0000-0002-3257-2500)
 - [谷歌学术镜像](https://ac.scmor.com/)
 - [学术写作](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/)
