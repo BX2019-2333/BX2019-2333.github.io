@@ -8,10 +8,12 @@
 - [Python Plot](https://unidata.github.io/python-training/gallery/gallery-home/)
 - [羽享平台](http://yuzhuyi.ysepan.com/)
 - [地理学](http://www.physicalgeography.net/)
+- [地球科学](https://courses.lumenlearning.com/earthscience/)
 - [天气与气候](https://www.lordgrey.org.uk/~f014/usefulresources/aric/Resources/Teaching_Packs/Key_Stage_4/Weather_Climate/contents.html)
 - [国局干培课程](http://stream1.cmatc.cn/cmatcvod/12/tqx/one_chapter.html#04)
 - [热带气象学](http://www.chanthaburi.buu.ac.th/~wirote/met/tropical/textbook_2nd_edition/navmenu.php_tab_4_page_5.5.0.htm)
 - [FAO](https://www.fao.org/3/x0490e/x0490e07.htm?tdsourcetag=s_pctim_aiomsg)
+- [海洋动力学](http://oceanmotion.org/html/background/ocean-in-motion.htm)
 
 ## 社交平台
 
@@ -20,6 +22,7 @@
 - Github：[BX2019](https://github.com/BX2019-2333)
 - [世纪气象云](http://www.21cma.net/portal.php)
 - [和鲸社区](https://www.heywhale.com/home/project)
+- [气候论坛](https://judithcurry.com/)
 
 
 ## 学术相关
