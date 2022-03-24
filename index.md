@@ -19,5 +19,16 @@
 - [学术写作](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/)
 - [近义词典](https://wantwords.net/)
 
+## 数据网站
+
+- [NCEP](https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html)
+- [大气再分析](https://s-rip.ees.hokudai.ac.jp/resources/links.html)
+- [OAFlux](https://psl.noaa.gov/data/gridded/data.oaflux_v3.html)
+- [CRU TS](https://catalogue.ceda.ac.uk/uuid/c26a65020a5e4b80b20018f148556681)
+- [Ocean Temp](http://www.ocean.iap.ac.cn/pages/dataService/dataService.html?navAnchor=dataService)
+- [Temp](https://crudata.uea.ac.uk/cru/data/temperature/)
+- [气候指数](http://climexp.knmi.nl/selectindex.cgi?id=someone@somewhere)
+- [CMIP6](https://esgf-node.llnl.gov/search/cmip6/)
+
 ## 联系方式
 - Email：1600920292@qq.com、zjhuangbc@163.com、huangbch18@lzu.edu.cn、huangbx2333@gmail.com
