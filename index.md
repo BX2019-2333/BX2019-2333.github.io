@@ -6,7 +6,6 @@
 
 - [MetEd Lesson](https://www.meted.ucar.edu/education_training/)
 - [Python Plot](https://unidata.github.io/python-training/gallery/gallery-home/)
-- [羽享平台](http://yuzhuyi.ysepan.com/)
 - [地理学](http://www.physicalgeography.net/)
 - [地球科学](https://courses.lumenlearning.com/earthscience/)
 - [天气与气候](https://www.lordgrey.org.uk/~f014/usefulresources/aric/Resources/Teaching_Packs/Key_Stage_4/Weather_Climate/contents.html)
