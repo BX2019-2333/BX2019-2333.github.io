@@ -18,7 +18,7 @@
 
 - [气象家园](http://bbs.06climate.com/)
 - [海洋论坛](https://www.52ocean.cn/)
-- Github：[BX2019](https://github.com/BX2019-2333)
+- [Github](https://github.com/)
 - [世纪气象云](http://www.21cma.net/portal.php)
 - [和鲸社区](https://www.heywhale.com/home/project)
 - [气候论坛](https://judithcurry.com/)
