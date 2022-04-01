@@ -26,8 +26,8 @@
 
 ## 学术相关
 
-- ResearchGate:[Huang](https://www.researchgate.net/profile/Bicheng-Huang-2)
-- Google Scholar:[Huang](https://scholar.google.com/citations?user=5FAWnOMAAAAJ&hl=zh-CN)
+- [ResearchGate-Huang](https://www.researchgate.net/profile/Bicheng-Huang-2)
+- [Google Scholar-Huang](https://scholar.google.com/citations?user=5FAWnOMAAAAJ&hl=zh-CN)
 - [ORCID](https://orcid.org/0000-0002-3257-2500)
 - [谷歌学术镜像](https://ac.scmor.com/)
 - [学术写作](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/)
