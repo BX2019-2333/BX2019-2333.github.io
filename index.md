@@ -31,7 +31,9 @@
 - [ORCID](https://orcid.org/0000-0002-3257-2500)
 - [谷歌学术镜像](https://ac.scmor.com/)
 - [学术写作](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/)
+- [语法纠正](https://quillbot.com/)
 - [近义词典](https://wantwords.net/)
+- [在线画图](http://www.ehbio.com/ImageGP/index.php/Home/Index/index.html)
 
 ## 数据网站
 
