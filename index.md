@@ -10,7 +10,6 @@
 - [天气与气候](https://www.lordgrey.org.uk/~f014/usefulresources/aric/Resources/Teaching_Packs/Key_Stage_4/Weather_Climate/contents.html)
 - [国局干培课程](http://stream1.cmatc.cn/cmatcvod/12/tqx/one_chapter.html#04)
 - [热带气象学](http://www.chanthaburi.buu.ac.th/~wirote/met/tropical/textbook_2nd_edition/navmenu.php_tab_4_page_5.5.0.htm)
-- [FAO](https://www.fao.org/3/x0490e/x0490e07.htm?tdsourcetag=s_pctim_aiomsg)
 - [海洋动力学](http://oceanmotion.org/html/background/ocean-in-motion.htm)
 
 ## 社交平台
@@ -23,8 +22,8 @@
 
 ## 学术相关
 
-- [ResearchGate-Huang](https://www.researchgate.net/profile/Bicheng-Huang-2)
-- [Google Scholar-Huang](https://scholar.google.com/citations?user=5FAWnOMAAAAJ&hl=zh-CN)
+- [ResearchGate](https://www.researchgate.net/profile/Bicheng-Huang-2)
+- [Google Scholar](https://scholar.google.com/citations?user=5FAWnOMAAAAJ&hl=zh-CN)
 - [ORCID](https://orcid.org/0000-0002-3257-2500)
 - [谷歌学术镜像](https://ac.scmor.com/)
 - [学术写作](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/)
@@ -35,7 +34,7 @@
 ## 数据网站
 
 - [NCEP](https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html)
-- [大气再分析](https://s-rip.ees.hokudai.ac.jp/resources/links.html)
+- [Reanalysis](https://s-rip.ees.hokudai.ac.jp/resources/links.html)
 - [OAFlux](https://psl.noaa.gov/data/gridded/data.oaflux_v3.html)
 - [CRU TS](https://catalogue.ceda.ac.uk/uuid/c26a65020a5e4b80b20018f148556681)
 - [Temp](https://crudata.uea.ac.uk/cru/data/temperature/)
