@@ -4,8 +4,7 @@
 
 ## 学习资源
 
-- [**MetEd Lesson**](https://www.meted.ucar.edu/education_training/)
-- [**地理学**](http://www.physicalgeography.net/)
+- [<font color=blue>**MetEd Lesson**</font>](https://www.meted.ucar.edu/education_training/)
 - [**地球科学**](https://courses.lumenlearning.com/earthscience/)
 - [**天气与气候**](https://www.lordgrey.org.uk/~f014/usefulresources/aric/Resources/Teaching_Packs/Key_Stage_4/Weather_Climate/contents.html)
 - [**国局干培课程**](http://stream1.cmatc.cn/cmatcvod/12/tqx/one_chapter.html#04)
